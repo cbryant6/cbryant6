@@ -12,8 +12,8 @@ full-stack and embedded systems projects that bridge user research and engineeri
 
 **Completed projects:**
 - Music Classification System — CNN-based audio genre/instrument classifier
-- Acoustic Dosimeter — wireless dual-device ESP32 receiver and display system
-- Bop It — 90s-inspired reaction game built from scratch
+- Acoustic Dosimeter — Wireless dual-device ESP32 receiver and display system
+- Motion Maven — 90s-inspired, Bop It like kinetic reaction game
 
 Seeking product management internships for Summer 2026.
 
