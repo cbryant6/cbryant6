@@ -1,16 +1,20 @@
-## Hi there 👋
+## Coleman Bryant
 
-<!--
-**cbryant6/cbryant6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSTI student at the University of Washington's Global Innovation Exchange, 
+focused on the intersection of product, AI, and connected devices.
 
-Here are some ideas to get you started:
+Background in operations, sales, and project management — now building 
+full-stack and embedded systems projects that bridge user research and engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building:**
+- Context-Aware Habit Tracker — Next.js/Supabase web app with an AI insight layer
+- Ambient Audio Classifier — on-device ML on a XIAO ESP32S3 microcontroller
+
+**Completed projects:**
+- Music Classification System — CNN-based audio genre/instrument classifier
+- Acoustic Dosimeter — wireless dual-device ESP32 receiver and display system
+- Bop It — 90s-inspired reaction game built from scratch
+
+Seeking product management internships for Summer 2026.
+
+📫 bryantcolemanh@gmail.com
