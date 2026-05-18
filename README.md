@@ -9,6 +9,7 @@ full-stack and embedded systems projects that bridge user research and engineeri
 **Currently building:**
 - Context-Aware Habit Tracker — Next.js/Supabase web app with an AI insight layer
 - Ambient Audio Classifier — on-device ML on a XIAO ESP32S3 microcontroller
+- Smart Workout Armband | Embedded ML & Wearable Systems
 
 **Completed projects:**
 - Music Classification System — CNN-based audio genre/instrument classifier
