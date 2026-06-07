@@ -1,10 +1,6 @@
 ## Coleman Bryant
 
-MSTI (Master of Science in Technology Innovation) student at the University of Washington's Global Innovation Exchange, 
-focused on the intersection of product, AI, and connected devices.
-
-Background in operations, sales, and project management — now building 
-full-stack and embedded systems projects that bridge engineering, product management, design and user research.
+MSTI (Master of Science in Technology Innovation) student at the University of Washington's Global Innovation Exchange, focused on the intersection of AI/ML, product strategy, and connected devices. Background in operations, sales, and project management — now building full-stack and embedded systems projects through coursework that bridges engineering, product management, design, and user research.
 
 **Currently building:**
 - Smart Workout Armband | Embedded ML & Wearable Systems
