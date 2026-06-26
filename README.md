@@ -4,6 +4,7 @@ MSTI (Master of Science in Technology Innovation) student at the University of W
 
 **Current Roles**
 AI/ML Engineer Intern at Kashmir World Foundation (2026-Present)
+
 Product Manager Intern at IpserLab (2026 - Present)
 
 
