@@ -4,8 +4,8 @@ MSTI (Master of Science in Technology Innovation) student at the University of W
 
 **Current Roles**
 
-- AI/ML Engineer Intern at Kashmir World Foundation (2026-Present)
-- Product Manager Intern at IpserLab (2026 - Present)
+- AI/ML Engineer Intern at Kashmir World Foundation (May 2026-Present)
+- Product Manager Intern at IpserLab (May 2026 - Present)
 
 
 **Completed projects:**
@@ -17,4 +17,4 @@ MSTI (Master of Science in Technology Innovation) student at the University of W
 - Motion Maven — 90s-inspired, Bop It like kinetic reaction game
 
 
-📫 bryantcolemanh@gmail.com
+📫 bryant.colemanh@gmail.com
