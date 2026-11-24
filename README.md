@@ -7,9 +7,11 @@ MSTI (Master of Science in Technology Innovation) student at the University of W
 - AI/ML Engineer Intern at Kashmir World Foundation (May 2026-Present)
 - Product Manager Intern at IpserLab (May 2026 - Present)
 
+**Current Projects**
+AI Smart Glasses for CPR Training — MultiCare-Sponsored Capstone (2026–Present)
 
 **Completed projects:**
-- Smart Workout Armband | Embedded ML & Wearable Systems
+- Smart Workout Armband — Embedded ML & Wearable Systems
 - Music Classification System — CNN-based audio genre/instrument classifier
 - Acoustic Dosimeter — Wireless dual-device ESP32 receiver and display system
 - Context-Aware Habit Tracker — Next.js/Supabase web app with an AI insight layer
