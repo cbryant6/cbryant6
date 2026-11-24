@@ -9,7 +9,7 @@ MSTI (Master of Science in Technology Innovation) student at the University of W
 
 **Current Projects:**
 
-AI Smart Glasses for CPR Training — MultiCare-Sponsored Capstone (2026–Present)
+- AI Smart Glasses for CPR Training — MultiCare-Sponsored Capstone (2026–Present)
 
 **Completed projects:**
 - Smart Workout Armband — Embedded ML & Wearable Systems
